@@ -1,0 +1,35 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Mathematics"
+    ],
+    [
+      "Mathematics",
+      "Algebra and Number Theory"
+    ],
+    [
+      "Mathematics",
+      "Topology and Geometry"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "2bd46f89-da99-8df3-5ac3-14ac12789f96"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Introduction to Arithmetic Geometry",
+  "course_description": "This course is an introduction to arithmetic geometry, a subject that lies at the intersection of algebraic geometry and number theory. Its primary motivation is the study of classical [Diophantine problems](http://en.wikipedia.org/wiki/Diophantine_equation) from the modern perspective of algebraic geometry.\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.782",
+  "learning_resource_types": [
+    "Problem Sets",
+    "Lecture Notes",
+    "Online Textbook"
+  ],
+  "title": "Course Metadata"
+}
